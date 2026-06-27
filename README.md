@@ -40,7 +40,7 @@ Details of the selected nodes would also be displayed on the right panel, descri
 
 # Ask & Trace, Visualise any particular process
 <img width="1652" height="950" alt="image" src="https://github.com/user-attachments/assets/168ba752-d544-4338-a8d5-1185b66c49c4" />
-
+<br><br>
 Ask Codex to explain something visually, and a narrow trace would be made selectable to view. Isolating unrelated nodes in any particular process within the codebase
 
 ---
@@ -48,5 +48,5 @@ Ask Codex to explain something visually, and a narrow trace would be made select
 # Fun Mode, Drive a Tesla Roadster in Space!
 <img width="1652" height="950" alt="image" src="https://github.com/user-attachments/assets/d6abfe34-d3ad-4541-81c1-7fb1eedf4af6" />
 <img width="1652" height="947" alt="image" src="https://github.com/user-attachments/assets/fb3141bb-c730-4d1c-b3db-8f07bb4aa671" />
-
+<br><br>
 Throwback reference to Elon Musk sending his Tesla Roadster to space, now you can drive one in your own spatial codebase universe.
