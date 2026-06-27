@@ -10,10 +10,11 @@ Being able to see the entire architecture in a single view, and then navigating 
 
 ---
 
-### How nodes are positioned spatially
-Technique: **Bounded Structural Force Layout**
+# How are Nodes positioned spatially
 
 <img width="1651" height="952" alt="image" src="https://github.com/user-attachments/assets/86cd2c4d-3d29-4910-9ab8-a5fd061e92bd" />
+
+Technique: **Bounded Structural Force Layout**
 
 A deterministic spatial layout technique that uses structural affinity, relationship attraction, and bounded repulsion to shape the codebase graph into a readable architectural map while preserving the source-backed topology.
 - Anchored hierarchy: Nodes are placed around their service, file, or declaration parent, giving the map a stable architectural frame.
@@ -23,11 +24,16 @@ A deterministic spatial layout technique that uses structural affinity, relation
 - Sibling repulsion: Unrelated nodes under the same parent are pushed apart, allowing smaller clusters to emerge.
 - Adaptive bounds: Larger parent groups are given more space so dense areas do not collapse into tight clusters.
 - Source-faithful layout: Positions are adjusted for readability, while the graph's nodes and relationships remain unchanged.
+
 This helps architectural patterns, hidden dependencies, and local code clusters surface visually, making relationships easier to identify than they would be from reading source files alone.
 
-### Information on how Nodes are connected, and how information flows
+---
+
+# Nodes are connected, how information flows
 <img width="1654" height="949" alt="image" src="https://github.com/user-attachments/assets/9176f618-6d1e-4382-9e25-518bc31c06d1" />
 <img width="1655" height="953" alt="image" src="https://github.com/user-attachments/assets/0a5b4adc-d041-43a3-ba58-21f39d5b860e" />
 
-### Ask & Trace, Ask Codex to help you visualise any particular workflow
+---
+
+# Ask & Trace, Visualise any particular process
 <img width="1652" height="950" alt="image" src="https://github.com/user-attachments/assets/168ba752-d544-4338-a8d5-1185b66c49c4" />
