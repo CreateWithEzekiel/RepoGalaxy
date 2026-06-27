@@ -55,6 +55,12 @@ Throwback reference to Elon Musk sending his Tesla Roadster to space, now you ca
 
 # Install & Use
 There are two skills, and they are a direct drop in for Codex
-$Codebase Index N Search
-$Codebase Cartographer
 
+- $Codebase Index N Search
+- $Codebase Cartographer
+
+### Codebase Index N Search
+It provides Python-only deterministic scripts that index a repository once into .repo_executive_context/codebase_index_n_search, query a SQLite-backed file/symbol/word/trigram/sparse-ngram/dependency/line index, refresh changed files on demand, prefer ACID-safe SQLite writes, fall back to guarded direct writes when needed, and read only narrow source slices. - Used by Codebase Cartographer as index reference to build the spatial maps for Python codes.
+
+### Codebase Cartographer
+Generate deterministic codebase graph artifacts and materialise a bundled local browser visualiser for Python, FastAPI, React, TypeScript, TSX, and CSS repositories. Use when Codex needs to map functions, components, API routes, schemas, styles, imports, calls, request/response contracts, evidence-backed service links, Obsidian notes, JSON Canvas files, Ask & Trace flows, or a localhost node graph without inventing source relationships.
