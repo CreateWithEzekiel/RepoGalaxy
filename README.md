@@ -50,3 +50,11 @@ Ask Codex to explain something visually, and a narrow trace would be made select
 <img width="1652" height="947" alt="image" src="https://github.com/user-attachments/assets/fb3141bb-c730-4d1c-b3db-8f07bb4aa671" />
 <br><br>
 Throwback reference to Elon Musk sending his Tesla Roadster to space, now you can drive one in your own spatial codebase universe.
+
+---
+
+# Install & Use
+There are two skills, and they are a direct drop in for Codex
+$Codebase Index N Search
+$Codebase Cartographer
+
