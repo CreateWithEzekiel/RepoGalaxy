@@ -13,7 +13,8 @@ Being able to see the entire architecture in a single view, and then navigating 
 # How are Nodes positioned spatially
 
 <img width="1651" height="952" alt="image" src="https://github.com/user-attachments/assets/86cd2c4d-3d29-4910-9ab8-a5fd061e92bd" />
-<br><br></br></br>
+
+
 Technique: **Bounded Structural Force Layout**
 
 A deterministic spatial layout technique that uses structural affinity, relationship attraction, and bounded repulsion to shape the codebase graph into a readable architectural map while preserving the source-backed topology.
