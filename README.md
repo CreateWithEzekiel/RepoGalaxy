@@ -32,7 +32,7 @@ This helps architectural patterns, hidden dependencies, and local code clusters 
 # How information flows within connected Nodes
 <img width="1654" height="949" alt="image" src="https://github.com/user-attachments/assets/9176f618-6d1e-4382-9e25-518bc31c06d1" />
 <img width="1655" height="953" alt="image" src="https://github.com/user-attachments/assets/0a5b4adc-d041-43a3-ba58-21f39d5b860e" />
-<br>
+<br><br>
 Clicking on any node would reveal the direction of information and where it is imported or gathered from. You could click on the next connected node and progressively explore the next.
 Details of the selected nodes would also be displayed on the right panel, describing what it does, its input and output structure, and a semantic summary of it.
 
