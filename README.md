@@ -55,6 +55,7 @@ Throwback reference to Elon Musk sending his Tesla Roadster to space, now you ca
 
 # Install & Use
 There are two skills, and they are a direct drop in for Codex
+Call the skill within a project folder where your code is at.
 
 - $Codebase Index N Search
 - $Codebase Cartographer
