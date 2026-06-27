@@ -56,10 +56,10 @@ Throwback reference to Elon Musk sending his Tesla Roadster to space, now you ca
 # Install & Use
 There are two skills, and they are a direct drop in for Codex.
 
-Call the skill within a project folder where your code is at.
-
 - $Codebase Index N Search
 - $Codebase Cartographer
+
+Call the Cartographer skill within a project folder where your code is at, and it would call and run the Indexing skill automatically.
 
 ### Codebase Index N Search
 It provides Python-only deterministic scripts that index a repository once into `.repo_executive_context/codebase_index_n_search` a subfolder within your project folder. Builds a SQLite-backed file/symbol/word/trigram/sparse-ngram/dependency/line index, refresh changed files on demand, prefer ACID-safe SQLite writes, fall back to guarded direct writes when needed, and read only narrow source slices. - Used by Codebase Cartographer as index reference to build the spatial maps for Python codes.
