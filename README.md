@@ -6,7 +6,7 @@ Let’s be honest: staring at a massive, flat codebase is a great way to get a h
 
 ### Why?
 I code with Codex, and I really would like to understand deeply about what Codex has coded.  However, reading lines of code, figuring out how processes and functions relate to another, and then holding it all as context in my brain physically hurts.
-Being able to see the entire architecture in a single view, and then navigating it in a 3D spatial space helps me connect the dots much faster.
+Being able to see the entire architecture in a single view, and then navigating it spatially helps me connect the dots much faster.
 
 ---
 
@@ -29,11 +29,23 @@ This helps architectural patterns, hidden dependencies, and local code clusters 
 
 ---
 
-# Nodes are connected, how information flows
+# How information flows within connected Nodes
 <img width="1654" height="949" alt="image" src="https://github.com/user-attachments/assets/9176f618-6d1e-4382-9e25-518bc31c06d1" />
 <img width="1655" height="953" alt="image" src="https://github.com/user-attachments/assets/0a5b4adc-d041-43a3-ba58-21f39d5b860e" />
+Clicking on any node would reveal the direction of information and where it is imported or gathered from. You could click on the next connected node and progressively explore the next.
+Details of the selected nodes would also be displayed on the right panel, describing what it does, its input and output structure, and a semantic summary of it.
 
 ---
 
 # Ask & Trace, Visualise any particular process
 <img width="1652" height="950" alt="image" src="https://github.com/user-attachments/assets/168ba752-d544-4338-a8d5-1185b66c49c4" />
+
+Ask Codex to explain something visually, and a narrow trace would be made selectable to view. Isolating unrelated nodes in any particular process within the codebase
+
+---
+
+# Fun Mode, Drive a Tesla Roadster in Space!
+<img width="1652" height="950" alt="image" src="https://github.com/user-attachments/assets/d6abfe34-d3ad-4541-81c1-7fb1eedf4af6" />
+<img width="1652" height="947" alt="image" src="https://github.com/user-attachments/assets/fb3141bb-c730-4d1c-b3db-8f07bb4aa671" />
+
+Throwback reference to Elon Musk sending his Tesla Roadster to space, now you can drive one in your own spatial codebase universe.
