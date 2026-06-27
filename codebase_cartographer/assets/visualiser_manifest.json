@@ -1,0 +1,69 @@
+{
+    "schema_version":  1,
+    "asset_root":  "assets/visualiser",
+    "generated_output_roots":  [
+                                   "public/codebase_cartographer"
+                               ],
+    "files":  [
+                  {
+                      "path":  "index.html",
+                      "size":  308,
+                      "sha256":  "9538d065841a905b864ccd2966e33434f0a20bb488bf80b686f44705349efe07"
+                  },
+                  {
+                      "path":  "package.json",
+                      "size":  386,
+                      "sha256":  "3411434680c62d4d5a3f686dd57c610e44becf774ee751b2c28bed9affb24eac"
+                  },
+                  {
+                      "path":  "package-lock.json",
+                      "size":  60456,
+                      "sha256":  "58d1b72b6333633a464c1a7d1b1d47b0d45d84566d2e5d9b7ff32633f0e36001"
+                  },
+                  {
+                      "path":  "public/assets/fun/space-panorama.svg",
+                      "size":  3510,
+                      "sha256":  "db8dbe88b74c6a0e812b634909aaa4c981a7de471062581cd4f9613aac96955e"
+                  },
+                  {
+                      "path":  "src/App.tsx",
+                      "size":  60614,
+                      "sha256":  "8bf8858e402636176fc310c77f75058e40dd77df5893b7a8ccef0a11c9be6e52"
+                  },
+                  {
+                      "path":  "src/GraphScene.tsx",
+                      "size":  184631,
+                      "sha256":  "21c8b7443a3234e60547ef9c7fc841c053b4a689d4458d58bc8a21ec7f9b17f5"
+                  },
+                  {
+                      "path":  "src/main.tsx",
+                      "size":  252,
+                      "sha256":  "72e28955ac6cf272e9808c809f3ba082d1ff4908f0116b898a50987062f0f356"
+                  },
+                  {
+                      "path":  "src/styles.css",
+                      "size":  34879,
+                      "sha256":  "3c29e855cffd9b7e6dd0e9db7e9767f816bbd98895d86c012bac3ac4a650e73f"
+                  },
+                  {
+                      "path":  "src/types.ts",
+                      "size":  4528,
+                      "sha256":  "b73d85a5d054db3e12a8e5543cda93b9eedc326149eb24df521cf8a8a9ce7436"
+                  },
+                  {
+                      "path":  "tsconfig.json",
+                      "size":  524,
+                      "sha256":  "9665597ba397119a137d724b8987ad6584f84a987aef5cd3d481ad52eedda218"
+                  },
+                  {
+                      "path":  "vite.config.ts",
+                      "size":  228,
+                      "sha256":  "baa808d047774d14eebe6375d767d57dd1fc803e5d9fc0aecb8a7c4ee37b2706"
+                  },
+                  {
+                      "path":  "public/assets/fun/Roadster_Vehicle.glb",
+                      "size":  4676196,
+                      "sha256":  "a7f539876bd5f8dc8090f4eae86a72cddfc0645a470dfb6378348c57296e6b44"
+                  }
+              ]
+}
