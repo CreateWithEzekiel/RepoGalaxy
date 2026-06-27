@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codebase Index N Search"
+  short_description: "ACID-first SQLite repo index, search, deps, and narrow reads"
+  brand_color: "#2563EB"
+  default_prompt: "Use $codebase_index_n_search to build the ACID-first SQLite repo index, query structure/search indexes first, and read only narrow source slices."
+policy:
+  allow_implicit_invocation: true

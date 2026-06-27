@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Cartographer"
+  short_description: "Map code into deterministic visual graphs"
+  default_prompt: "Use $codebase_cartographer to generate deterministic graph artifacts and a local visualiser for this repository."
