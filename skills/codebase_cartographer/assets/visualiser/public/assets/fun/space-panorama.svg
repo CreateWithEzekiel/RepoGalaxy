@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4096" height="2048" viewBox="0 0 4096 2048">
+  <defs>
+    <radialGradient id="cyanHaze" cx="49%" cy="48%" r="42%">
+      <stop offset="0" stop-color="#2dd4ff" stop-opacity="0.16"/>
+      <stop offset="0.22" stop-color="#2dd4ff" stop-opacity="0.08"/>
+      <stop offset="0.72" stop-color="#05070d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="roseHaze" cx="57%" cy="52%" r="36%">
+      <stop offset="0" stop-color="#ff4f78" stop-opacity="0.11"/>
+      <stop offset="0.28" stop-color="#ff4f78" stop-opacity="0.045"/>
+      <stop offset="0.82" stop-color="#05070d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldHaze" cx="44%" cy="42%" r="38%">
+      <stop offset="0" stop-color="#ffd35a" stop-opacity="0.08"/>
+      <stop offset="0.25" stop-color="#ffd35a" stop-opacity="0.035"/>
+      <stop offset="0.78" stop-color="#05070d" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soften">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="4096" height="2048" fill="#010207"/>
+  <rect width="4096" height="2048" fill="url(#cyanHaze)" filter="url(#soften)"/>
+  <rect width="4096" height="2048" fill="url(#roseHaze)" filter="url(#soften)"/>
+  <rect width="4096" height="2048" fill="url(#goldHaze)" filter="url(#soften)"/>
+  <g fill="#ffffff">
+    <circle cx="184" cy="198" r="1.9" opacity="0.66"/>
+    <circle cx="354" cy="1464" r="1.5" opacity="0.48"/>
+    <circle cx="642" cy="832" r="1.8" opacity="0.56"/>
+    <circle cx="832" cy="296" r="1.4" opacity="0.42"/>
+    <circle cx="978" cy="1662" r="2.2" opacity="0.64"/>
+    <circle cx="1128" cy="566" r="1.8" opacity="0.52"/>
+    <circle cx="1282" cy="1118" r="2.4" opacity="0.72"/>
+    <circle cx="1468" cy="738" r="1.3" opacity="0.42"/>
+    <circle cx="1544" cy="1438" r="1.9" opacity="0.58"/>
+    <circle cx="1716" cy="408" r="2.3" opacity="0.7"/>
+    <circle cx="1888" cy="1264" r="1.6" opacity="0.48"/>
+    <circle cx="2074" cy="872" r="2.1" opacity="0.62"/>
+    <circle cx="2246" cy="310" r="1.7" opacity="0.54"/>
+    <circle cx="2418" cy="1570" r="2.6" opacity="0.76"/>
+    <circle cx="2586" cy="690" r="1.4" opacity="0.46"/>
+    <circle cx="2742" cy="1168" r="1.9" opacity="0.58"/>
+    <circle cx="2946" cy="430" r="2.2" opacity="0.68"/>
+    <circle cx="3120" cy="1758" r="1.7" opacity="0.52"/>
+    <circle cx="3342" cy="942" r="2.1" opacity="0.62"/>
+    <circle cx="3530" cy="642" r="1.5" opacity="0.44"/>
+    <circle cx="3748" cy="1374" r="2.3" opacity="0.7"/>
+    <circle cx="3950" cy="236" r="1.6" opacity="0.5"/>
+  </g>
+  <g fill="#bfe7ff">
+    <circle cx="1212" cy="1004" r="1.7" opacity="0.64"/>
+    <circle cx="1640" cy="920" r="2.1" opacity="0.72"/>
+    <circle cx="1902" cy="988" r="1.4" opacity="0.52"/>
+    <circle cx="2328" cy="916" r="2" opacity="0.7"/>
+    <circle cx="2826" cy="1002" r="1.6" opacity="0.58"/>
+  </g>
+  <g fill="#fff1a8">
+    <circle cx="1568" cy="1152" r="1.8" opacity="0.58"/>
+    <circle cx="2048" cy="1074" r="2.6" opacity="0.72"/>
+    <circle cx="2522" cy="1102" r="1.8" opacity="0.56"/>
+  </g>
+  <g stroke-linecap="round">
+    <path d="M1416 980 L1558 932" stroke="#bfe7ff" stroke-width="2" opacity="0.16"/>
+    <path d="M2182 1184 L2384 1086" stroke="#ffffff" stroke-width="2" opacity="0.14"/>
+    <path d="M1788 702 L1968 762" stroke="#ffd35a" stroke-width="1.8" opacity="0.12"/>
+  </g>
+  <rect width="4096" height="2048" fill="none" stroke="#010207" stroke-width="160" opacity="0.55"/>
+</svg>
