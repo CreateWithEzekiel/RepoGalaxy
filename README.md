@@ -66,3 +66,8 @@ It provides Python-only deterministic scripts that index a repository once into 
 Generate deterministic codebase graph artifacts and materialise a bundled local browser visualiser for Python, FastAPI, React, TypeScript, TSX, and CSS repositories. Use when Codex needs to map functions, components, API routes, schemas, styles, imports, calls, request/response contracts, evidence-backed service links, Obsidian notes, JSON Canvas files, Ask & Trace flows, or a localhost node graph without inventing source relationships.
 
 ### For Claude users, load the skill into your prompt and get it to convert it for Claude use.
+
+---
+
+# Tested with
+- Python & React codes
