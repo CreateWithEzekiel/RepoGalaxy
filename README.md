@@ -3,6 +3,8 @@ Let’s be honest: staring at a massive, flat codebase is a great way to get a h
 
 ### A Codex Skill that builds a 3D cartograph of your project, visualising the various files, functions, and codes in a 3D visual universe.
 <img width="1918" height="1042" alt="image" src="https://github.com/user-attachments/assets/b0ac2ca8-5e55-41a1-a564-d484bcdf94e8" />
+<img width="3835" height="2083" alt="image" src="https://github.com/user-attachments/assets/05422804-281a-4c97-a07b-85c9719b9862" />
+
 
 ### Why?
 I code with Codex, and I really would like to understand deeply about what Codex has coded.  However, reading lines of code, figuring out how processes and functions relate to another, and then holding it all as context in my brain physically hurts.
