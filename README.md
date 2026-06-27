@@ -8,8 +8,12 @@ Let’s be honest: staring at a massive, flat codebase is a great way to get a h
 I code with Codex, and I really would like to understand deeply about what Codex has coded.  However, reading lines of code, figuring out how processes and functions relate to another, and then holding it all as context in my brain physically hurts.
 Being able to see the entire architecture in a single view, and then navigating it in a 3D spatial space helps me connect the dots much faster.
 
+---
+
 ### How nodes are positioned spatially
 Technique: **Bounded Structural Force Layout**
+
+<img width="1651" height="952" alt="image" src="https://github.com/user-attachments/assets/86cd2c4d-3d29-4910-9ab8-a5fd061e92bd" />
 
 A deterministic spatial layout technique that uses structural affinity, relationship attraction, and bounded repulsion to shape the codebase graph into a readable architectural map while preserving the source-backed topology.
 - Anchored hierarchy: Nodes are placed around their service, file, or declaration parent, giving the map a stable architectural frame.
@@ -21,7 +25,9 @@ A deterministic spatial layout technique that uses structural affinity, relation
 - Source-faithful layout: Positions are adjusted for readability, while the graph's nodes and relationships remain unchanged.
 This helps architectural patterns, hidden dependencies, and local code clusters surface visually, making relationships easier to identify than they would be from reading source files alone.
 
+### Information on how Nodes are connected, and how information flows
 <img width="1654" height="949" alt="image" src="https://github.com/user-attachments/assets/9176f618-6d1e-4382-9e25-518bc31c06d1" />
-
 <img width="1655" height="953" alt="image" src="https://github.com/user-attachments/assets/0a5b4adc-d041-43a3-ba58-21f39d5b860e" />
+
+### Ask & Trace, Ask Codex to help you visualise any particular workflow
 <img width="1652" height="950" alt="image" src="https://github.com/user-attachments/assets/168ba752-d544-4338-a8d5-1185b66c49c4" />
